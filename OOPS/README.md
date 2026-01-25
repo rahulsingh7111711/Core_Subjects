@@ -240,7 +240,7 @@ public:
 
 **Answer**: The main four pillar of oops are given below.
 
-![pillar of OPPS](OOPS/assets/images/pillar_of_OOPS.png)
+![pillar of OPPS](/assets/images/pillar_of_OOPS.png)
 
 
 ---
