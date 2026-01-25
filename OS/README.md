@@ -4,37 +4,11 @@ Here we have last minute revision notes of Operating System. These questions wil
 
 ---
 
-###
-
-#### Join us for all the latest offcampus job updates, webinar, hackathons, resume review and a lot more :heart::heart:
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/amanchowdhury046/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@amanchowdhury046" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://telegram.me/offcampus_phodenge" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/aman_chowdhury_046/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://whatsapp.com/channel/0029Va9Q0lkDZ4LYNx6ukw2u" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=Whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
----
-
 ## Most Asked Operating System Interview Questions
 
 ---
 
-<img src="/assets/images/os-interview.png" width="400" height="200">
+<img src="assets/images/os-interview.png" width="400" height="200">
 
 ### 1) What is an operating system?
 
@@ -53,11 +27,11 @@ According to the functionality that operating Systems provides the types are:
  
 - **Multitasking**: It is a system that allows more efficient use of computer hardware. This system works on more than one task at one time by rapidly switching between various tasks. These systems are also known as time-sharing systems.
 
-<img src="/assets/images/M-OS.png" width="400" height="200">
+<img src="assets/images/M-OS.png" width="400" height="200">
 
 - **Multiprocessing**: It is a system that allows multiple or various processors in a computer to process two or more different portions of the same program simultaneously. It is used to complete more work in a shorter period of time. 
 
-<img src="/assets/images/Multiprocessing-OS.jpeg" width="400" height="200">
+<img src="assets/images/Multiprocessing-OS.jpeg" width="400" height="200">
 
 - **Multithreading**: In multithreading you have multiple threads running within a process in interleaved fashion
 
@@ -66,7 +40,7 @@ According to the functionality that operating Systems provides the types are:
 ### 3) What is Kernel? Explain the types of kernel.
 The kernel is basically a computer program usually considered as a central component or module of OS. It is responsible for handling, managing, and controlling all operations of computer systems and hardware. Whenever the system starts, the kernel is loaded first and remains in the main memory. It also acts as an interface between user applications and hardware.
 
-<img src="/assets/images/kernel.png" width="400" height="200">
+<img src="assets/images/kernel.png" width="400" height="200">
 
 #### Types of Kernel:
 
@@ -84,7 +58,7 @@ Though there are many types of kernels, only two of them are the most popular:
 
 **Operating System**: Operating system is a system program that runs on the computer to provide an interface to the computer user so that they can easily operate on the computer.
 
-<img src="/assets/images/os-kernel.png" width="400" height="200">
+<img src="assets/images/os-kernel.png" width="400" height="200">
 
 ---
 
@@ -95,7 +69,7 @@ A process is a program in execution. when a program goes to RAM and start runnin
 All the states of process are defined in the image below:
 
 
-<img src="/assets/images/process.png" width="600" height="200">
+<img src="assets/images/process.png" width="600" height="200">
 
 ---
 
@@ -151,7 +125,7 @@ A scheduling algorithm is a process that is used to improve efficiency by utiliz
 
 Types of Scheduling Algorithm:
 
-<img src="/assets/images/scheduling-algorithms.jpg" width="400" height="200">
+<img src="assets/images/scheduling-algorithms.jpg" width="400" height="200">
 
 #### 1. First Come First Serve (FCFS): 
 FCFS is the simplest scheduling algorithm. The idea is the process that comes first will scheduled first. FCFS is a non preemptive (when you assign a process to a processor you can't take it back) process. FCFS can cause starvation problems in which the process does not get the proper resources.
@@ -177,7 +151,7 @@ Multilevel queue scheduling is a type of CPU scheduling in which the processes i
 
 When two processes are trying to execute simultaneously and waiting for each other to finish the execution, as they depend on each other, this halt in execution is known as a deadlock. When a deadlock occurs in the program, the system usually freezes.
 
-<img src="/assets/images/deadlock.png" width="400" height="200">
+<img src="assets/images/deadlock.png" width="400" height="200">
 
 ---
 
@@ -219,7 +193,7 @@ There are two main types of semaphores:
 
 It is an abbreviation for **Mut** ual **Ex** clusion. It is a userspace program object that helps multiple threads to access the same resource, but not simultaneously. The sole purpose of a mutex is to lock a thread with a resource so the other threads can not use the same resource until the first thread finish executing.
 
-<img src="/assets/images/Mutex-diagram.png" width="600" height="200">
+<img src="assets/images/Mutex-diagram.png" width="600" height="200">
 
 ---
 
@@ -250,7 +224,7 @@ Demand paging is a concept used by a virtual machine. Only a part of the process
 ### 21) What is cache memory?
 It is a volatile computer memory directly attached to the register, which provides high-speed data access to the processor.
 
-<img src="/assets/images/cache.png" width="500" height="200">
+<img src="assets/images/cache.png" width="500" height="200">
 
 ---
 
@@ -312,35 +286,10 @@ Implementing alternative page replacement algo helps eliminate Belady’s Anomal
 
 ### Thanks for Reading 
 
-<img src="/assets/images/save.png" width="600" height="200">
+<img src="assets/images/save.png" width="600" height="200">
 
 ---
 
-###
-
-#### Join us for all the latest offcampus job updates, webinar, hackathons, resume review and a lot more :heart::heart:
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/amanchowdhury046/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@amanchowdhury046" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://telegram.me/offcampus_phodenge" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/aman_chowdhury_046/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://whatsapp.com/channel/0029Va9Q0lkDZ4LYNx6ukw2u" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=Whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
----
 
 
 
