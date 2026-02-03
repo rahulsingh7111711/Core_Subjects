@@ -1,4 +1,4 @@
-# DBMS Notes-Last Minute Revision :white_check_mark: 
+# DBMS Notes - Last Minute Revision :white_check_mark: 
 
 Here we have last minute revision notes of DBMS. These questions will familiarize you with the most important DBMS concepts and help you ace your job interviews :raised_hands:
 
