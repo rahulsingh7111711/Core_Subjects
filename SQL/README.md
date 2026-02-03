@@ -1,4 +1,4 @@
-# SQL Notes-Last Minute Revision :white_check_mark: 
+# SQL Notes - Last Minute Revision :white_check_mark: 
 
 Here we have last minute revision notes of SQL. These questions will familiarize you with the most important SQL concepts and help you ace your job interviews :raised_hands:
 
